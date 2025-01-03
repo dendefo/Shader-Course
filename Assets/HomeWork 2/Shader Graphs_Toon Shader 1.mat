@@ -56,18 +56,18 @@ Material:
     m_Ints: []
     m_Floats:
     - _Ambient_Light_Strength: 0.1
-    - _Light_Intensity: 0.4
-    - _Outline_Width: 0.2
+    - _Geometric_Threshold: 0.871
+    - _IsReflectionSteped: 1
+    - _Is_Geometric_Calculation: 0.058
     - _QueueControl: 0
     - _QueueOffset: 0
     - _REFLECTION_TYPE: 0
-    - _Rim_Width: 0.33
-    - _Shininess: 0
-    - _StepAmount: 8.6
+    - _Rim_Width: 0.3
+    - _Shininess: 0.28
+    - _StepAmount: 17.08
     - _Threshold_Power: 1
-    - _Thresholds_Multiplyer: 0.451
+    - _UseSceneLight: 0
     m_Colors:
     - _LightColor: {r: 1, g: 1, b: 1, a: 0}
     - _Rim_Color: {r: 0, g: 0, b: 0, a: 1}
-    - _Vector4: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
